@@ -1027,6 +1027,11 @@ function generateQuestions() {
         { text: '√49',   answer: '7'  },
         { text: '√64',   answer: '8'  },
         { text: '√100',  answer: '10' },
+        { text: '√121',  answer: '11' },
+        { text: '√144',  answer: '12' },
+        { text: '√169',  answer: '13' },
+        { text: '√196',  answer: '14' },
+        { text: '√225',  answer: '15' },
     ];
 
     // Shuffle elke pool
