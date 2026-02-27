@@ -975,7 +975,7 @@ function generateQuestions() {
     // ===== VRAAGPOOLS =====
 
     // Type 1: Vereenvoudig √(n²·k) → n√k
-    let simplifyPool = [
+    //let simplifyPool = [
         { text: '√12',  answer: '2√3' },
         { text: '√18',  answer: '3√2' },
         { text: '√20',  answer: '2√5' },
@@ -994,7 +994,7 @@ function generateQuestions() {
     ];
 
     // Type 2: Optellen/aftrekken van gelijksoortige wortels
-    let optellenPool = [
+    //let optellenPool = [
         { text: '3√2 + √2',    answer: '4√2' },
         { text: '5√3 - 2√3',   answer: '3√3' },
         { text: '2√5 + 3√5',   answer: '5√5' },
@@ -1006,7 +1006,7 @@ function generateQuestions() {
     ];
 
     // Type 3: Product van wortels √a · √b
-    let productPool = [
+    //let productPool = [
         { text: '√3 · √3',    answer: '3'  },
         { text: '√5 · √5',    answer: '5'  },
         { text: '√2 · √8',    answer: '4'  },
